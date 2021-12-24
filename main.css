@@ -9,6 +9,7 @@ body{
 	width: 500px;
 	height: auto;
 	margin: auto;
+	border-radius: 20px;
 }
 #bTitle{
 	color: #FA8072;
